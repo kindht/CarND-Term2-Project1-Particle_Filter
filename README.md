@@ -6,7 +6,8 @@ One vehicle has been kidnapped and transported to a new location! Luckily it has
 
 In this project I implemented a 2 dimensional particle filter in C++. The particle filter is given a map and some initial localization information (analogous to what a GPS would provide). At each time step the filter will also get observation and control data.
 
-My particle filter is implemented in **src/particle_filter.cpp**, and **particle_filter.h**
+My particle filter is implemented in   
+**[src/particle_filter.cpp](./src/particle_filter.cpp)**, and **[particle_filter.h](./src/particle_filter.h)**
 
 ## Running the code
 I compliled the project on **MacOS 10.14.5 with g++-9**:  
